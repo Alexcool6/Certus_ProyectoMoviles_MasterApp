@@ -1,6 +1,6 @@
-# smart_tutors
+# Nombres
 
-A new Flutter project.
+Alexander Rodiguez Estela.
 
 ## Getting Started
 
